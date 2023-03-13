@@ -23,4 +23,4 @@ O Dockerfile neste projeto usa a imagem Scratch como base, que é conhecida por 
 
 ## Contribuindo
 
-Se você quiser contribuir para este projeto, sinta-se à vontade para abrir um pull request ou discutir possíveis melhorias na seção de problemas. =D
+Se você quiser contribuir para este projeto, sinta-se à vontade para abrir um pull request ou discutir possíveis melhorias na seção de problemas. =)
